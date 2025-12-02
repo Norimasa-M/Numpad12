@@ -1,9 +1,0 @@
-file_format: "1"
-id: vandapad
-name: VandaPad
-type: shield
-url: https://github.com/AndyHegemann/VandaPad
-requires: [pro_micro]
-features:
-  - keys
-  - studio
