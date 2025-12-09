@@ -22,10 +22,10 @@
 
         default_layer {
             bindings = <
-&kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9
-&kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6
-&kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3
-&kp KP_NUMBER_0  &mo 1            &lt 2 KP_DOT
+&kp KP_NUMBER_7    &kp KP_NUMBER_8  &kp KP_NUMBER_9
+&kp KP_NUMBER_4    &kp KP_NUMBER_5  &kp KP_NUMBER_6
+&kp KP_NUMBER_1    &kp KP_NUMBER_2  &kp KP_NUMBER_3
+&lt 1 KP_NUMBER_0  &lt 1 SPACE      &lt 2 KP_DOT
             >;
         };
 
@@ -34,7 +34,7 @@
 &kp ESCAPE    &kp TAB          &kp BACKSPACE
 &kp KP_SLASH  &kp KP_ASTERISK  &kp KP_MINUS
 &kp LEFT      &kp RIGHT        &kp KP_PLUS
-&kp SPACE     &trans           &kp KP_ENTER
+&trans        &trans           &kp KP_ENTER
             >;
         };
 
